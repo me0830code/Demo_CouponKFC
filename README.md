@@ -1,5 +1,5 @@
 # CouponKFC
-Date : 109 / 11 / 05
+Date : 2020 / 11 / 05
 
 # Motivation & Purpose
 Side Project - KFC Coupon Crawler
@@ -11,13 +11,16 @@ Side Project - KFC Coupon Crawler
 
 # Demo
 Crawler Start
-![](https://i.imgur.com/8wgKhqG.png)
+
+<img src = "https://i.imgur.com/8wgKhqG.png" width = "700" />
 
 Crawler Finish
-![](https://i.imgur.com/Urdjdmr.png)
+
+<img src = "https://i.imgur.com/Urdjdmr.png" width = "700" />
 
 Coupon Information
-![](https://i.imgur.com/juqfgm7.png)
+
+<img src = "https://i.imgur.com/juqfgm7.png" width = "700" />
 
 # Contacts
 Chien-Yu Yeh
